@@ -1,0 +1,52 @@
+[
+  {
+    "questionNo": "",
+    "question": "Choose the correct array that describes the division statement <br>“20 ÷ 5 = 4” to help Grace make several pairs of earrings.",
+    
+    "optionsImages": [
+      "./images/1.jpg",
+      "./images/2.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": " Choose the correct array that describes the division statement <br>“35 ÷ 5 = 7” of her design.",
+    
+    "optionsImages": [
+      "./images/3.jpg",
+      "./images/4.jpg"
+    ],
+    "correct":0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "She used beads to create matching pairs of earrings. Choose the correct array that describes the division statement <br>“32 ÷ 8 = 4”",
+    
+    "optionsImages": [
+      "./images/5.jpg",
+      "./images/6.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+      
+  ]
+  

@@ -1,0 +1,86 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Grace made an array of rectangle-shaped beads. Which division statement is represented by the array?<br><img width='70%' src='./images/13.jpg'>",
+        "options": [
+            "16 ÷ 4 = 4",
+            "15 ÷ 3 = 3",
+            "18 ÷ 2 = 9",
+            "12 ÷ 4 = 3"
+        ],
+        "correct": 0,
+        "explanation": "Here we can see that beads are divided into 4 rows. Each row has 4 beads. Therefore this can be represented as 16 ÷ 4 = 4"
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Grace arranged beads for making bracelets. What division fact does this represent?<br><img width='70%' src='./images/7.jpg'>",
+        "options": [
+            "12 ÷ 2 = 6",
+            "15 ÷ 3 = 3",
+            "20 ÷ 4 = 5",
+            "10 ÷ 5 = 2"
+        ],
+        "correct": 3,
+        "explanation": "Here we can see that beads are divided into 5 rows. Each row has 2 beads. Therefore this can be represented as 10 ÷ 5 = 2"
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Grace grouped her star-shaped beads to make matching earrings. Which division statement matches this setup?<br><img width='70%' src='./images/8.jpg'>",
+        "options": [
+            "12 ÷ 6 = 2",
+            "10 ÷ 5 = 2",
+            "12 ÷ 4 = 3",
+            "15 ÷ 5 = 3"
+        ],
+        "correct": 2,
+        "explanation": "Here we can see that beads are divided into 4 rows. Each row has 3 beads. Therefore this can be represented as 12 ÷ 4 = 3"
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Grace split beads to make three necklaces. How does this show a division fact?<br><img width='70%' src='./images/9.jpg'>",
+        "options": [
+            "20 ÷ 5 = 4",
+            "15 ÷ 3 = 5",
+            "12 ÷ 6 = 2",
+            "10 ÷ 5 = 2"
+        ],
+        "correct": 1,
+        "explanation": "Here we can see that beads are divided into 3 rows. Each row has 5 beads. Therefore this can be represented as 15 ÷ 3 = 5"
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Grace arranged her oval-shaped beads evenly into bracelets. Which division fact could represent her arrangement?<br><img width='95%' src='./images/10.jpg'>",
+        "options": [
+            "24 ÷ 8 = 3",
+            "21 ÷ 7 = 3",
+            "27 ÷ 9 = 3",
+            "24 ÷ 6 = 4"
+        ],
+        "correct": 0,
+        "explanation": "Here we can see that beads are divided into 8 rows. Each row has 3 beads. Therefore this can be represented as 24 ÷ 8 = 3"
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Choose the correct division statement that matches her design shown below.<br><img width='70%' src='./images/11.jpg'>",
+        "options": [
+            "30 ÷ 6 = 5",
+            "20 ÷ 4 = 5",
+            "20 ÷ 5 = 4",
+            "25 ÷ 5 = 5"
+        ],
+        "correct": 2,
+        "explanation": "Here we can see that beads are divided into 5 rows. Each row has 5 beads. Therefore this can be represented as 25 ÷ 5 = 5"
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Grace organised beads for necklaces. Which division statement matches this setup?<br><img width='70%' src='./images/12.jpg'>",
+        "options": [
+            "12 ÷ 4 = 3",
+            "12 ÷ 3 = 4",
+            "12 ÷ 2 = 6",
+            "15 ÷ 3 = 5"
+        ],
+        "correct": 2,
+        "explanation": "Here we can see that beads are divided into 2 rows. Each row has 6 beads. Therefore this can be represented as 12 ÷ 2 = 6"
+    }
+]
